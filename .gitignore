@@ -8,3 +8,6 @@ DerivedData/
 .swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
 .netrc
 .idea/
+
+.logorythia/lastUserPrompt.txt
+.logorythia/plan.txt
